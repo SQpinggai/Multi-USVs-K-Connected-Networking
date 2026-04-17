@@ -1,6 +1,4 @@
 function sita = AxisSitaConfirm(x,y,mode)
-%UNTITLED3 此处显示有关此函数的摘要
-%   此处显示详细说明
 PI = pi;
 sita = 0;
 if mode == 1
