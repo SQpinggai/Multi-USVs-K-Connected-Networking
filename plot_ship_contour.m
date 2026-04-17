@@ -1,8 +1,4 @@
 function [xx yy]=plot_ship_contour(ship,L,B,L01)
-%ship:船舶运动学和动力学数据，6维向量
-%L:船长，m
-%B:船宽，m
-%L01：船艏到船重心的距离，m
 x=ship(1,1);
 y=ship(2,1);
 phi=ship(3,1);
